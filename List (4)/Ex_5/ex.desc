@@ -1,0 +1,5 @@
+5. Contagem de positivos e negativos
+Solicite oito números e armazene-os em um vetor. Informe:
+• Quantos números são positivos;
+• Quantos são negativos;
+• Quantos são iguais a zero.
