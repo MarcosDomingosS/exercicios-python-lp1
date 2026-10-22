@@ -1,0 +1,8 @@
+1. Tabuada e Fatorial
+Crie um menu com as opções:
+Selecione a opção:
+1 – Tabuada
+2 – Fatorial
+3 – Sair
+Faça um procedimento para o menu e um para exibir a tabuada do número
+digitado pelo usuário ou para exibir o fatorial do número digital.

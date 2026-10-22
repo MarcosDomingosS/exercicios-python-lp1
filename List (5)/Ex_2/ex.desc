@@ -1,0 +1,11 @@
+2. Calculadora com menu
+Desenvolva uma calculadora utilizando procedimentos e funções.
+O programa deverá apresentar o seguinte menu:
+===== CALCULADORA =====
+1 - Somar
+2 - Subtrair
+3 - Multiplicar
+4 - Dividir
+0 - Sair
+Implemente quatro funções, uma para cada operação matemática, e um
+procedimento exibir_menu().

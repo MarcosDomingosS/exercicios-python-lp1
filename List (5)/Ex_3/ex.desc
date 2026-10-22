@@ -1,0 +1,14 @@
+3. Sistema de cadastro de produtos
+Desenvolva um sistema que permita cadastrar produtos utilizando uma lista.
+Cada produto deverá possuir nome, preço e quantidade em estoque.
+Implemente:
+• cadastrar_produto(produtos, nome, preco, quantidade): procedimento
+que adiciona um produto à lista.
+• calcular_valor_estoque(produtos): função que retorna o valor total dos
+produtos em estoque.
+• buscar_produto(produtos, nome): função que retorna o produto
+encontrado ou None.
+• listar_produtos(produtos): procedimento que apresenta todos os
+produtos cadastrados.
+O programa principal deverá oferecer um menu com as opções de cadastrar,
+consultar, listar produtos, calcular o valor total do estoque e sair.
